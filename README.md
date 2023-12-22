@@ -86,6 +86,12 @@
  
 <table width='100%'> 
     <tr>
+     <td align="center" width="96">
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="dart" width="48" height="48"/> 
+        </a>
+      <br>Dart
+    </td>
     <td align="center" width="96">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
             <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="48" height="48"/> 
