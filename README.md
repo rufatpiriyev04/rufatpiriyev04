@@ -102,7 +102,7 @@
         <a href="#" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="48" height="48"/> 
         </a>
-      <br>Flutter
+      <br>C++
     </td>
   </tr> 
 </table>
